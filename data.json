@@ -1,0 +1,45 @@
+{
+    "n": 25,
+    "choice": {
+        "wortel": {
+            "pawal": 26,
+            "p": 4,
+            "value": 5
+        },
+        "jagung": {
+            "pawal": 22,
+            "p": 6,
+            "value": 5
+        },
+        "kubis": {
+            "pawal": 31,
+            "p": 6,
+            "value": 5
+        },
+        "tomat": {
+            "pawal": 26,
+            "p": 5,
+            "value": 5
+        },
+        "sandwitch": {
+            "pawal": 14,
+            "p": 1,
+            "value": 10
+        },
+        "sate": {
+            "pawal": 5,
+            "p": 2,
+            "value": 15
+        },
+        "ayam": {
+            "pawal": 6,
+            "p": 1,
+            "value": 25
+        },
+        "sapi": {
+            "pawal": 2,
+            "p": 0,
+            "value": 45
+        }
+    }
+}
